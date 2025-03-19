@@ -1,21 +1,16 @@
-# [Long course name]
+# Fundamentals of Intellectual Property Management
 
-- Course: N
-- Semester: N
-- Year: Fall/Spring YEAR
-- Lector: [name](link to profile on bsuir.by)
-- Instructor: [name](link to profile on bsuir.by)
-- Resource: [domain](link to LMS or special resource)
+- Course: 2
+- Semester: 4
+- Year: Spring 2025
+- Lector: [Pulko T. A.](https://iis.bsuir.by/employees/t-pulko)
+- Instructor: [Fomin D. A.](https://iis.bsuir.by/employees/d-fomin)
+- Resource: [lms.bsuir.by](https://lms.bsuir.by/course/view.php?id=5215)
 
 ## Tasks
 
-<!--
-If there are only one type of tasks, subdir content can be placed directly at
-the root.
--->
-
-- [Lab work 1 name](lw/01/README.md)
-- [Practical work 1 name](pw/02/README.md)
-- [Term Project name](tp/README.md)
-- [Graduation Thesis name](gt/README.md)
-- [Additonal tasks](misc/README.md)
+- [Patent research and patent information](01/README.md)
+- [Copyright and related rights](02/README.md)
+- [Industrial property](03/README.md)
+- [Commercial use of industrial property](04/README.md)
+- [Protection of the rights of authors and copyright holders. Resolution of disputes on violation of intellectual property rights](05/README.md)
