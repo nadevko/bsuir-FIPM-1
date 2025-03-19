@@ -5,7 +5,7 @@
 - Year: Spring 2025
 - Lector: [Pulko T. A.](https://iis.bsuir.by/employees/t-pulko)
 - Instructor: [Fomin D. A.](https://iis.bsuir.by/employees/d-fomin)
-- Resource: [lms.bsuir.by](https://lms.bsuir.by/course/view.php?id=5310)
+- Resource: [lms.bsuir.by](https://lms.bsuir.by/course/view.php?id=5215)
 
 ## Tasks
 
