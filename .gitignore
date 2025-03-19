@@ -1,5 +1,8 @@
-## Environment seupt:
+## Environment setup:
 .direnv
+
+## Lockfiles
+.~lock*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
